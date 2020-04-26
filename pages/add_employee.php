@@ -23,13 +23,12 @@ else
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-		<meta name="description" content="" />
-		<meta name="author" content="" />
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+		<meta name="author" content="Danonek"/>
 		<title>Employee App :: Dashboard</title>
-		<link rel="icon" type="image/png" href="assets/icon.png">
+		<link rel="icon" type="image/png" href="assets/icon.png"/>
 		<script src="assets/js/all.min.js"></script>
 		<link href="assets/css/style.css" rel="stylesheet" />
 		<link href="assets/css/tables.css" rel="stylesheet"/>
@@ -37,8 +36,7 @@ else
 	
 	<body class="sb-nav-fixed" onload=display_ct();>
 		<nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
-			<a class="navbar-brand" href="cp.php">Employee App</a><button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fas fa-bars"></i></button
-			>
+			<a class="navbar-brand" href="cp.php">Employee App</a><button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fas fa-bars"></i></button>
 			<div class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0" style="color: rgba(255, 255, 255, 0.5);" id="ct"></div>
 			<ul class="navbar-nav ml-auto ml-md-0">
 				<li class="nav-item dropdown">
